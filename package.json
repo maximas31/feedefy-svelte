@@ -1,6 +1,7 @@
 {
-	"name": "feedefy-svelte",
+	"name": "@feedefy/svelte",
 	"version": "0.0.1",
+	"description": "Embed the Feedefy widget in your Svelte App",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
